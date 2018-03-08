@@ -51,12 +51,14 @@
     "groups": [
       {
         "name": "db",
+        "python-interpreter": "/usr/bin/python3",
         "hostnames": [
           "mysql"
         ]
       },
       {
         "name": "mattermost",
+        "python-interpreter": "/usr/bin/python3",
         "hostnames": [
           "mattermost"
         ]
