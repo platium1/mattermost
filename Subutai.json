@@ -6,7 +6,7 @@
   "containers": [
     {
       "hostname": "mysql",
-      "template": "mysql@ec54e1cff2341cdc55be5e961cfd15b4f97087e8",
+      "template": "mysql@280dcda67a67d071970ff838d0331c33c0c04710",
       "peer-criteria": "HTTP-GROUP",
       "size": "${mysqlDBtype}"
     },
