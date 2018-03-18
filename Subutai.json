@@ -32,7 +32,7 @@
     }
   ],
   "ansible-configuration": {
-    "source-url": "https://github.com/subutai-blueprints/Mattermost/archive/master.zip",
+    "source-url": "https://github.com/subutai-blueprints/mattermost/archive/master.zip",
     "ansible-playbook": "main.yml",
     "extra-vars": [
       {
